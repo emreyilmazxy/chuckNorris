@@ -1,3 +1,6 @@
+
+[Canlı Demo](https://emreyilmazxy.github.io/chuckNorris/)
+
 # Chuck Norris Şaka Uygulaması
 
 JavaScript pratik projesi: Chuck Norris API'sinden rastgele şakalar çeken basit bir web uygulaması.
